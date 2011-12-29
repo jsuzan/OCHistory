@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>\\nsadc\nsa%24\temp\jsuzanowicz\ochistory\|\\firedc\nsa%24\temp\jsuzanowicz\ochistory\|\\10.132.152.152\nsa%24\temp\jsuzanowicz\ochistory\|\\10.132.152.152\temp\jsuzanowicz\ochistory\|\\10.132.152.temp\jsuzanowicz\ochistory\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\nsadc\nsa%24\temp\jsuzanowicz\ochistory\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

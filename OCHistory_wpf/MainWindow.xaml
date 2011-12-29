@@ -1,0 +1,9 @@
+﻿<Window x:Class="OCHistory_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="OCHistory" Height="350" Width="525" WindowStyle="SingleBorderWindow" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+    <Grid>
+        <WebBrowser Margin="12,122,12,0" Name="conversationWebBrowser" UseLayoutRounding="False" ClipToBounds="False" DataContext="{Binding}" />
+        <TreeView Height="116" HorizontalAlignment="Stretch" Name="sessionTreeView" VerticalAlignment="Top" Margin="12,0" HorizontalContentAlignment="Left" VerticalContentAlignment="Top"></TreeView>
+    </Grid>
+</Window>
